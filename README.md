@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vyshnav Rajeev👋
 
-<!--
-**vyshnavrajeev/vyshnavrajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Full Stack Developer | GenAI Enthusiast
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications and AI-powered solutions using Python and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Django
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- REST APIs
+- Git & GitHub
+
+## Projects
+- Service Provider Booking Management System
+- Expense Tracker Python
+- AI ERP Assistant System
+
+## Currently Learning
+Python Full Stack Development with Generative AI
+
+## Connect With Me
+- LinkedIn
+- Portfolio 
